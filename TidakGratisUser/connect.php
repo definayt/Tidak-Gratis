@@ -1,5 +1,5 @@
 <?php 
-	$db_host ="localhost"; 
+	$db_host ="132.145.161.151"; 
 	$db_username ="root"; 
 	$db_password ="24060117120039"; 
 	$db_database ="shop"; 
