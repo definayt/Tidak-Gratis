@@ -84,7 +84,7 @@
                       <li><a href="view_produk.php">Product</a></li>
                     </ul>
                   </li>
-                  <li><a href="edit_admin.html"><i class="fa fa-gear"></i> Setting </a>
+                  <li><a href="pegawai.php"><i class="fa fa-gear"></i> Setting Pegawai</a>
                   </li>
                 <?php 
                 } 
