@@ -392,7 +392,7 @@
 
         <!-- footer content -->
         <footer>
-          <div class="pull-right">
+          <div class="pull-right" >
             TidakGratis  ©2019
           </div>
           <div class="clearfix"></div>
